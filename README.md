@@ -1,2 +1,2 @@
 # Project-Euler
-Record of solving Project Euler problems
+Record of solving 'Project Euler' problems
