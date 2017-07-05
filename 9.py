@@ -27,7 +27,7 @@ b = -1
 for b in range(500):
     if inequality(b):
         a = 1000 * ((b - 500) / (b - 1000))
-        if not a.is_integer() or a < 0: continue
+        if not a.is_integer(): continue
         a = int(a)
         c = 1000 - a - b
         print("a:", a, ", b:", b, ", c:", c, ", product:", a*b*c)
