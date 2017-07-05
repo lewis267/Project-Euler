@@ -1,4 +1,2 @@
 # Project_Euler
-Record of solving 'Project Euler' problems
-
-See: <https://projecteuler.net/>
+Record of solving [Project Euler](https://projecteuler.net/) problems
